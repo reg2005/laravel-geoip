@@ -8,7 +8,7 @@ use Monolog\Handler\StreamHandler;
 
 use GeoIp2\Exception\AddressNotFoundException;
 
-use Illuminate\Config\Repository;
+use October\Rain\Config\Repository;
 use Illuminate\Session\Store as SessionStore;
 
 class GeoIP {
