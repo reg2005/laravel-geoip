@@ -1,6 +1,6 @@
 <?php namespace Torann\GeoIP\Console;
 
-use Illuminate\Config\Repository;
+use October\Rain\Config\Repository;
 use Illuminate\Console\Command;
 use Torann\GeoIP\GeoIPUpdater;
 
